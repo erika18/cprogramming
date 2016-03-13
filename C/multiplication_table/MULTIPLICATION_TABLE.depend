@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385892573 source:g:\mp\mp\code blocks\c\multiplication_table\main.c
+	<stdio.h>
+	<stdlib.h>
+

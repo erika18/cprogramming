@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360662883 source:/home/student/Desktop/007/strassens_matrix_multiplication/main.c
+	<stdio.h>
+	<sys/time.h>
+
