@@ -26,7 +26,7 @@ void colorcube(void)
 	polygon(0,3,2,1);
 	polygon(2,3,7,6);
 	polygon(0,4,7,3);
-	polygon(1,2,7,6);
+	polygon(1,2,6,5);
 	polygon(4,5,6,7);
 	polygon(0,1,5,4);
 }
