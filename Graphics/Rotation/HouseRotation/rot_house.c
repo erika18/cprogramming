@@ -22,15 +22,7 @@ res[p][q]=res[p][q]+square[p][r]*rot_mat[r][q];
 }
 }
 }
-for(p=0;p<5;p++)
-{
-for(q=0;q<3;q++)
-{
-printf("%f\t",res[p][q]);
-}
-printf("\n");
-}
-}
+
 
 void rotate()
 {
